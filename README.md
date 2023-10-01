@@ -1,6 +1,6 @@
 ### [Breast Cancer Detection](https://github.com/HGalletti/CancerDetection/)
 
-![SBA loans](/Breast_cancer_detection.jpg)
+![Breast_cancer_detection](/Breast_cancer_detection.jpg)
 
 #### Project Introduction
 
